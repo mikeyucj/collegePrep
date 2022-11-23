@@ -1,0 +1,10 @@
+.bright {
+    color: orange;
+    font-family: Avenir;
+  }
+
+  .header {
+    text-align: left;
+    font-family: Avenir;
+    font-size: 50px;
+  }
